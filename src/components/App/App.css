@@ -6,7 +6,7 @@ body {
 }
 
 .playArea {
-  border: 5px solid deepskyblue;
+  border: 5px solid rgb(245, 244, 224);
   width: 585px;
   height: 440px;
 }
